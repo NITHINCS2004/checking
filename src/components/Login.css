@@ -1,0 +1,15 @@
+.login-container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .icon-container {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+  }
+  
+  .google-login-box {
+    margin-top: 20px;
+  }
+  
